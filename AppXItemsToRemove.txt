@@ -1,2 +1,3 @@
 MozillaThunderbird.MZLA
 AcerIncorporated.AcerRegistration
+Evernote.Evernote
