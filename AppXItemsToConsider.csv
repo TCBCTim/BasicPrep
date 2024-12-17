@@ -1,6 +1,7 @@
 "Name"
-"@{Name=Microsoft.WindowsAppRuntime.CBS; PackageFullName=Microsoft.WindowsAppRuntime.CBS_4000.1000.1727.0_x64__8wekyb3d8bbwe}"
+"@{Name=Microsoft.Services.Store.Engagement; PackageFullName=Microsoft.Services.Store.Engagement_10.0.23012.0_x86__8wekyb3d8bbwe}"
 "@{Name=AppUp.ThunderboltControlCenter; PackageFullName=AppUp.ThunderboltControlCenter_1.0.37.0_x64__8j3eq9eme6ctt}"
+"@{Name=Microsoft.WindowsAppRuntime.CBS; PackageFullName=Microsoft.WindowsAppRuntime.CBS_4000.1000.1727.0_x64__8wekyb3d8bbwe}"
 "1527c705-839a-4832-9118-54d4Bd6a0c89"
 "AcerIncorporated.4703949AD09F"
 "AppUp.IntelGraphicsExperience"
